@@ -4,7 +4,7 @@
 
 <p align="center">
   <img align="center" alt="Metrics" src="https://github.com/Godson777/Godson777/blob/main/github-metrics.svg" />
-</p
+</p>
 <!--
 **Godson777/Godson777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
