@@ -34,7 +34,7 @@ jobs:
           plugin_anilist_shuffle: yes
           plugin_anilist_user: GodsonTM
           plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: repositories, user
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_days: 14
