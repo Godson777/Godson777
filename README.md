@@ -1,4 +1,6 @@
-<h1 align="center">Yo waddup. Local funi man here, I code shit sometimes. Is it any decent? debatable tbh.</h1>
+<h1 align="center">Yo waddup. Local funi man here, I code shit sometimes.</h1>
+<h3 align="center">Is my code any decent? debatable tbh.</h2>
+<h4 align="center">anyway here's some stats lmao</h3>
 
 <p align="center">
   <img align="center" alt="Metrics" src="https://github.com/Godson777/Godson777/blob/main/github-metrics.svg" />
